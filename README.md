@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parvejprv
+- 👋 Hi, I’m @Parvej Alam
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning from previous thing
 - 💞️ I’m looking to collaborate on ...
