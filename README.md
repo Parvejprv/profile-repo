@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Parvej Alam
-- 👀 I’m interested in coding
+- 👀 I have a eager to learn new thing daily.
 - 🌱 I’m currently learning from previous thing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...  
 
 <!---
 Parvejprv/Parvejprv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
